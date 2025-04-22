@@ -3,8 +3,8 @@
 :root {
     --primary-color: #e5f0f5;
     --secondary-color: #ff7010;
-    --dark-color1: #031d2e;
-    --dark-color2: #17384e;
+    --dark-color1: #023047;
+    --dark-color2: #023047;
     --white-color: #ffffff;
     --transition: 0.4s ease-in-out;
 }
@@ -35,7 +35,7 @@ body {
 }
 
 img {
-    max-width: 100%;
+    max-width: 200px;
     height: auto;
 }
 
