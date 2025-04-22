@@ -574,7 +574,7 @@ span.select2-dropdown.select2-dropdown--above,
 .as_info_detail {
     padding-right: 50px;
     display: flex;
-    justify-content: space-between;
+    justify-content:space-evenly;
 }
 
 .as_search_wrapper {
@@ -595,7 +595,7 @@ span.select2-dropdown.select2-dropdown--above,
 
 .as_info_detail ul li {
     display: inline-flex;
-    padding: 15px 30px;
+    padding: 15px 100px;
 }
 
 .as_info_detail ul li a,
