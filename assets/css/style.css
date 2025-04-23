@@ -3327,8 +3327,7 @@ textarea.form-control {
     .as_about_slider .slick-dots {
         position: absolute;
         left: -45px;
-        bottom: 55px;
-        display: block;
+        bottom: 20px;
     }
     .as_sign_box {
         max-width: 100%;
