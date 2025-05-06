@@ -211,6 +211,10 @@ a:focus {
 .as_orange {
     color: var(--secondary-color);
 }
+.as_orange:hover{
+    color: var(--secondary-color);
+    font-weight: bolder ;
+}
 
 .as_white {
     color: var(--white-color);
